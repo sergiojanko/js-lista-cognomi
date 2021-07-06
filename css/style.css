@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  list-style-type: none;
+  padding: 5px;
+}
